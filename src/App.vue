@@ -1,11 +1,12 @@
 <template>
   <div id="app">
-    <h4>
-      修改后的vue
-    </h4>
-    <router-view/>
+    <router-view></router-view>
   </div>
 </template>
+
+<script>
+export default {}
+</script>
 
 <style lang="less">
 </style>
